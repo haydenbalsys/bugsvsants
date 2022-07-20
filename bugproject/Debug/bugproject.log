@@ -1,0 +1,9 @@
+﻿  Ant.cpp
+  Bug.cpp
+  Organism.cpp
+  TBug.cpp
+  World.cpp
+  main.cpp
+C:\Users\Hayden\Desktop\~\School\CSM135\bugproject\bugproject\main.cpp(19,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  bugproject.vcxproj -> C:\Users\Hayden\Desktop\~\School\CSM135\bugproject\Debug\bugproject.exe
